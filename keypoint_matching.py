@@ -1,6 +1,4 @@
 # Brandon Bowles
-# CSE4310 - 001
-# Assignment 2
 
 import sys
 import numpy as np
