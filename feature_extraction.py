@@ -1,6 +1,4 @@
 # Brandon Bowles
-# CSE4310 - 001
-# Assignment 2
 
 import numpy as np
 import matplotlib.pyplot as plt
